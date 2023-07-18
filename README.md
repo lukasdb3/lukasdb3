@@ -1,6 +1,6 @@
 ### Hello There 👋
 My name is Lukas and this is my Github page where I keep my messes of code. <br />
-Im currently a undergrad freshman at [University of Northern Iowa](https://uni.edu). I hope to get a Bachelors in Computer Science and possibly a minor in Criminal Justice or something else.
+I'm currently a sophomore at the University Of Northern Iowa. Striving to get a Bachelors in Computer Science.
 
 ### Intrests
 - RagePluginHook
