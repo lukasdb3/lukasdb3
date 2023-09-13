@@ -1,5 +1,5 @@
 ### Hello There 👋
-My name is Lukas and this is my Github page where I keep my messes of code. <br />
+My name is Lukas and this is my Github page where I keep my code.<br />
 I'm currently a sophomore at the University Of Northern Iowa. Striving to get a Bachelors in Computer Science.
 
 ### Intrests
