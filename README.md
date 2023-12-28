@@ -4,7 +4,6 @@ I'm currently a sophomore at University. Striving to get a Bachelor's in Compute
 
 ### Intrests
 - RagePluginHook
-- Unity
 - C#
 - Python
 
