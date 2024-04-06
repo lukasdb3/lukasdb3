@@ -1,6 +1,6 @@
 ### Hello There 👋
 My name is Lukas and this is my Github page where I keep my code.<br />
-I'm currently a sophomore at University. Striving to get a Bachelor's in Computer Science.
+I'm currently a sophomore at University striving to get a Bachelor's in Computer Science.
 
 ### Intrests
 - RagePluginHook
